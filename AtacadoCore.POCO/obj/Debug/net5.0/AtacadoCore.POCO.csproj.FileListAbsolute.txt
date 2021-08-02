@@ -1,0 +1,24 @@
+C:\Users\LAB04\Desktop\Pasta Scripts\Rest-Api\ProjeetoAtacadoCore\AtacadoCore.POCO\bin\Debug\net5.0\AtacadoCore.POCO.deps.json
+C:\Users\LAB04\Desktop\Pasta Scripts\Rest-Api\ProjeetoAtacadoCore\AtacadoCore.POCO\bin\Debug\net5.0\AtacadoCore.POCO.dll
+C:\Users\LAB04\Desktop\Pasta Scripts\Rest-Api\ProjeetoAtacadoCore\AtacadoCore.POCO\bin\Debug\net5.0\ref\AtacadoCore.POCO.dll
+C:\Users\LAB04\Desktop\Pasta Scripts\Rest-Api\ProjeetoAtacadoCore\AtacadoCore.POCO\bin\Debug\net5.0\AtacadoCore.POCO.pdb
+C:\Users\LAB04\Desktop\Pasta Scripts\Rest-Api\ProjeetoAtacadoCore\AtacadoCore.POCO\obj\Debug\net5.0\AtacadoCore.POCO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB04\Desktop\Pasta Scripts\Rest-Api\ProjeetoAtacadoCore\AtacadoCore.POCO\obj\Debug\net5.0\AtacadoCore.POCO.AssemblyInfoInputs.cache
+C:\Users\LAB04\Desktop\Pasta Scripts\Rest-Api\ProjeetoAtacadoCore\AtacadoCore.POCO\obj\Debug\net5.0\AtacadoCore.POCO.AssemblyInfo.cs
+C:\Users\LAB04\Desktop\Pasta Scripts\Rest-Api\ProjeetoAtacadoCore\AtacadoCore.POCO\obj\Debug\net5.0\AtacadoCore.POCO.csproj.CoreCompileInputs.cache
+C:\Users\LAB04\Desktop\Pasta Scripts\Rest-Api\ProjeetoAtacadoCore\AtacadoCore.POCO\obj\Debug\net5.0\AtacadoCore.POCO.dll
+C:\Users\LAB04\Desktop\Pasta Scripts\Rest-Api\ProjeetoAtacadoCore\AtacadoCore.POCO\obj\Debug\net5.0\ref\AtacadoCore.POCO.dll
+C:\Users\LAB04\Desktop\Pasta Scripts\Rest-Api\ProjeetoAtacadoCore\AtacadoCore.POCO\obj\Debug\net5.0\AtacadoCore.POCO.pdb
+C:\Users\LAB04\Desktop\Pasta Scripts\Rest-Api\ProjeetoAtacadoCore\AtacadoCore.POCO\obj\Debug\net5.0\AtacadoCore.POCO.csproj.AssemblyReference.cache
+C:\Users\vinir\Documents\Aulas\AspnetCore\ProjeetoAtacadoCore\AtacadoCore.POCO\bin\Debug\net5.0\AtacadoCore.POCO.deps.json
+C:\Users\vinir\Documents\Aulas\AspnetCore\ProjeetoAtacadoCore\AtacadoCore.POCO\bin\Debug\net5.0\AtacadoCore.POCO.dll
+C:\Users\vinir\Documents\Aulas\AspnetCore\ProjeetoAtacadoCore\AtacadoCore.POCO\bin\Debug\net5.0\ref\AtacadoCore.POCO.dll
+C:\Users\vinir\Documents\Aulas\AspnetCore\ProjeetoAtacadoCore\AtacadoCore.POCO\bin\Debug\net5.0\AtacadoCore.POCO.pdb
+C:\Users\vinir\Documents\Aulas\AspnetCore\ProjeetoAtacadoCore\AtacadoCore.POCO\obj\Debug\net5.0\AtacadoCore.POCO.csproj.AssemblyReference.cache
+C:\Users\vinir\Documents\Aulas\AspnetCore\ProjeetoAtacadoCore\AtacadoCore.POCO\obj\Debug\net5.0\AtacadoCore.POCO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinir\Documents\Aulas\AspnetCore\ProjeetoAtacadoCore\AtacadoCore.POCO\obj\Debug\net5.0\AtacadoCore.POCO.AssemblyInfoInputs.cache
+C:\Users\vinir\Documents\Aulas\AspnetCore\ProjeetoAtacadoCore\AtacadoCore.POCO\obj\Debug\net5.0\AtacadoCore.POCO.AssemblyInfo.cs
+C:\Users\vinir\Documents\Aulas\AspnetCore\ProjeetoAtacadoCore\AtacadoCore.POCO\obj\Debug\net5.0\AtacadoCore.POCO.csproj.CoreCompileInputs.cache
+C:\Users\vinir\Documents\Aulas\AspnetCore\ProjeetoAtacadoCore\AtacadoCore.POCO\obj\Debug\net5.0\AtacadoCore.POCO.dll
+C:\Users\vinir\Documents\Aulas\AspnetCore\ProjeetoAtacadoCore\AtacadoCore.POCO\obj\Debug\net5.0\ref\AtacadoCore.POCO.dll
+C:\Users\vinir\Documents\Aulas\AspnetCore\ProjeetoAtacadoCore\AtacadoCore.POCO\obj\Debug\net5.0\AtacadoCore.POCO.pdb

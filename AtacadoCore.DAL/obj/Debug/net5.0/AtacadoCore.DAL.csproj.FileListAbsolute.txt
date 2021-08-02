@@ -1,0 +1,30 @@
+C:\Users\LAB04\Desktop\Pasta Scripts\Rest-Api\ProjeetoAtacadoCore\AtacadoCore.DAL\bin\Debug\net5.0\AtacadoCore.DAL.deps.json
+C:\Users\LAB04\Desktop\Pasta Scripts\Rest-Api\ProjeetoAtacadoCore\AtacadoCore.DAL\bin\Debug\net5.0\AtacadoCore.DAL.runtimeconfig.json
+C:\Users\LAB04\Desktop\Pasta Scripts\Rest-Api\ProjeetoAtacadoCore\AtacadoCore.DAL\bin\Debug\net5.0\AtacadoCore.DAL.runtimeconfig.dev.json
+C:\Users\LAB04\Desktop\Pasta Scripts\Rest-Api\ProjeetoAtacadoCore\AtacadoCore.DAL\bin\Debug\net5.0\AtacadoCore.DAL.dll
+C:\Users\LAB04\Desktop\Pasta Scripts\Rest-Api\ProjeetoAtacadoCore\AtacadoCore.DAL\bin\Debug\net5.0\ref\AtacadoCore.DAL.dll
+C:\Users\LAB04\Desktop\Pasta Scripts\Rest-Api\ProjeetoAtacadoCore\AtacadoCore.DAL\bin\Debug\net5.0\AtacadoCore.DAL.pdb
+C:\Users\LAB04\Desktop\Pasta Scripts\Rest-Api\ProjeetoAtacadoCore\AtacadoCore.DAL\obj\Debug\net5.0\AtacadoCore.DAL.csproj.AssemblyReference.cache
+C:\Users\LAB04\Desktop\Pasta Scripts\Rest-Api\ProjeetoAtacadoCore\AtacadoCore.DAL\obj\Debug\net5.0\AtacadoCore.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB04\Desktop\Pasta Scripts\Rest-Api\ProjeetoAtacadoCore\AtacadoCore.DAL\obj\Debug\net5.0\AtacadoCore.DAL.AssemblyInfoInputs.cache
+C:\Users\LAB04\Desktop\Pasta Scripts\Rest-Api\ProjeetoAtacadoCore\AtacadoCore.DAL\obj\Debug\net5.0\AtacadoCore.DAL.AssemblyInfo.cs
+C:\Users\LAB04\Desktop\Pasta Scripts\Rest-Api\ProjeetoAtacadoCore\AtacadoCore.DAL\obj\Debug\net5.0\AtacadoCore.DAL.csproj.CoreCompileInputs.cache
+C:\Users\LAB04\Desktop\Pasta Scripts\Rest-Api\ProjeetoAtacadoCore\AtacadoCore.DAL\obj\Debug\net5.0\AtacadoCore.DAL.dll
+C:\Users\LAB04\Desktop\Pasta Scripts\Rest-Api\ProjeetoAtacadoCore\AtacadoCore.DAL\obj\Debug\net5.0\ref\AtacadoCore.DAL.dll
+C:\Users\LAB04\Desktop\Pasta Scripts\Rest-Api\ProjeetoAtacadoCore\AtacadoCore.DAL\obj\Debug\net5.0\AtacadoCore.DAL.pdb
+C:\Users\LAB04\Desktop\Pasta Scripts\Rest-Api\ProjeetoAtacadoCore\AtacadoCore.DAL\obj\Debug\net5.0\AtacadoCore.DAL.genruntimeconfig.cache
+C:\Users\vinir\Documents\Aulas\AspnetCore\ProjeetoAtacadoCore\AtacadoCore.DAL\bin\Debug\net5.0\AtacadoCore.DAL.deps.json
+C:\Users\vinir\Documents\Aulas\AspnetCore\ProjeetoAtacadoCore\AtacadoCore.DAL\bin\Debug\net5.0\AtacadoCore.DAL.runtimeconfig.json
+C:\Users\vinir\Documents\Aulas\AspnetCore\ProjeetoAtacadoCore\AtacadoCore.DAL\bin\Debug\net5.0\AtacadoCore.DAL.runtimeconfig.dev.json
+C:\Users\vinir\Documents\Aulas\AspnetCore\ProjeetoAtacadoCore\AtacadoCore.DAL\bin\Debug\net5.0\AtacadoCore.DAL.dll
+C:\Users\vinir\Documents\Aulas\AspnetCore\ProjeetoAtacadoCore\AtacadoCore.DAL\bin\Debug\net5.0\ref\AtacadoCore.DAL.dll
+C:\Users\vinir\Documents\Aulas\AspnetCore\ProjeetoAtacadoCore\AtacadoCore.DAL\bin\Debug\net5.0\AtacadoCore.DAL.pdb
+C:\Users\vinir\Documents\Aulas\AspnetCore\ProjeetoAtacadoCore\AtacadoCore.DAL\obj\Debug\net5.0\AtacadoCore.DAL.csproj.AssemblyReference.cache
+C:\Users\vinir\Documents\Aulas\AspnetCore\ProjeetoAtacadoCore\AtacadoCore.DAL\obj\Debug\net5.0\AtacadoCore.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinir\Documents\Aulas\AspnetCore\ProjeetoAtacadoCore\AtacadoCore.DAL\obj\Debug\net5.0\AtacadoCore.DAL.AssemblyInfoInputs.cache
+C:\Users\vinir\Documents\Aulas\AspnetCore\ProjeetoAtacadoCore\AtacadoCore.DAL\obj\Debug\net5.0\AtacadoCore.DAL.AssemblyInfo.cs
+C:\Users\vinir\Documents\Aulas\AspnetCore\ProjeetoAtacadoCore\AtacadoCore.DAL\obj\Debug\net5.0\AtacadoCore.DAL.csproj.CoreCompileInputs.cache
+C:\Users\vinir\Documents\Aulas\AspnetCore\ProjeetoAtacadoCore\AtacadoCore.DAL\obj\Debug\net5.0\AtacadoCore.DAL.dll
+C:\Users\vinir\Documents\Aulas\AspnetCore\ProjeetoAtacadoCore\AtacadoCore.DAL\obj\Debug\net5.0\ref\AtacadoCore.DAL.dll
+C:\Users\vinir\Documents\Aulas\AspnetCore\ProjeetoAtacadoCore\AtacadoCore.DAL\obj\Debug\net5.0\AtacadoCore.DAL.pdb
+C:\Users\vinir\Documents\Aulas\AspnetCore\ProjeetoAtacadoCore\AtacadoCore.DAL\obj\Debug\net5.0\AtacadoCore.DAL.genruntimeconfig.cache
